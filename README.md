@@ -1,3 +1,3 @@
 # Git
 
-My school project 
+My school projects 
